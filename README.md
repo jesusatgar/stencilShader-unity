@@ -8,4 +8,4 @@
  Modify both materials "Stencil Reference Value" value to the same "i.e: 1". You can use different reference values for different objects.
  
  See the result: The object behind the window will be only available to be seen when the users' camera is "looking" in the direction of  both objects. 
- This makes some cool magic or trippy effects for your Unity projects. Looks even nicer on VR projects, where the users can move freely around the object.
+ This makes some cool magic or trippy effects for your Unity projects. Looks even nicer on VR projects, where users can move freely around the object.
